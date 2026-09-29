@@ -42,9 +42,9 @@ Lately: AI agent infrastructure, Shopify tooling, and small tools that solve one
 | **[assay](https://github.com/0xvikram/assay)** · [live ↗](https://assay-dusky.vercel.app) | Is this agent's reputation real? A paid pre-flight check for ERC-8004 agent payments. | TypeScript · Solidity |
 | **[WalTune](https://github.com/0xvikram/WalTune)** · [live ↗](https://wal-tune.vercel.app) | Stream music and support artists directly with pay-per-stream on Web3. | Move · Next.js |
 | **[TipUp](https://github.com/0xvikram/TipUp)** · [live ↗](https://tip-up-push.vercel.app) | Universal tipping dApp on Push Chain — tip any creator by ENS name, with real-time notifications. | TypeScript · Push Chain |
-| **[brands-on-glood](https://github.com/0xvikram/brands-on-glood)** | Task-based challenge that puts a store's logo on the glood.ai 3D logo wall. | TypeScript · Next.js |
+| 
 | **[meal-mode](https://github.com/0xvikram/meal-mode)** | Chrome extension that filters YouTube down to videos that fit the minutes you have left to eat. | JavaScript · Chrome APIs |
-| **[credit-card-fraud-detection](https://github.com/0xvikram/credit-card-fraud-detection)** | Leakage-free, cost-sensitive ML benchmark over 284,807 real transactions. | Python · scikit-learn |
+
 
 ---
 
